@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm **Tejaswa**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D4AA&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Engineer+%F0%9F%9A%80;AI+%26+Cloud+Architect+%E2%98%81%EF%B8%8F;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D4AA&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling"/>
 
@@ -25,7 +25,6 @@ Building intelligent solutions with modern web technologies
 - API reverse-engineering & integration
 
 **🔍 Fun Fact:** I reverse-engineer APIs for breakfast! 🕵️
-```
 
 </td>
 <td width="50%">
@@ -59,7 +58,7 @@ AWS Step Functions<br>65% faster migrations
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80"><br>
 <b>Mobile Development</b><br>
-Flutter app with<br>1.5K+ downloads
+Flutter & Kotlin apps<br>with modern architecture
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="80"><br>
@@ -104,19 +103,6 @@ Redis caching + Docker
 </td>
 <td align="center" width="33%">
 
-### **FeedForward** 💬
-*Anonymous Feedback System*
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-AI-powered suggestions<br>
-Secure authentication<br>
-Real-time analytics
-
-</td>
-<td align="center" width="33%">
-
 ### **Permitly** 📱
 *QR-Based Visitor Management*
 
@@ -126,6 +112,19 @@ Real-time analytics
 Android app with Jetpack Compose<br>
 REST API with JWT auth<br>
 AWS S3 + Redis integration
+
+</td>
+<td align="center" width="33%">
+
+### **FeedForward** 💬
+*Anonymous Feedback System*
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+AI-powered suggestions<br>
+Secure authentication<br>
+Real-time analytics
 
 </td>
 </tr>
