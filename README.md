@@ -34,13 +34,10 @@
 
 ### 🛠️ Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,kotlin,flutter,androidstudio,java" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,kotlin,flutter,androidstudio,java,c,cpp" />
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,aws,gcp,mongodb,postgres,redis,firebase,docker,git" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=graphql,tailwind,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,mongodb,postgres,redis,firebase,docker,git,graphql,tailwind,figma,vscode" />
 </p>
 
 </div>
