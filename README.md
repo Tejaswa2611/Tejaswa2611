@@ -1,60 +1,158 @@
-# Hey, I'm Tejaswa 👋
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Engineer;AI+Enthusiast;Problem+Solver)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm **Tejaswa**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D4AA&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Engineer+%F0%9F%9A%80;AI+%26+Cloud+Architect+%E2%98%81%EF%B8%8F;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling"/>
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table width="100%">
+<tr>
+<td width="50%">
 
-### 🛠️ Building with
-```javascript
-const stack = {
-    frontend: ['React', 'Next.js', 'TypeScript'],
-    backend: ['Node.js', 'Python', 'AWS'],
-    databases: ['PostgreSQL', 'MongoDB', 'Redis'],
-    ai: ['OpenAI', 'DeepSeek'],
-    mobile: ['Flutter']
+## 🎯 **What I Do**
+
+```typescript
+const tejaswa = {
+    code: ["JavaScript", "TypeScript", "Python"],
+    technologies: {
+        frontend: ["React", "Next.js"],
+        backend: ["Node.js", "AWS"],
+        mobile: ["Flutter"],
+        ai: ["OpenAI", "DeepSeek API"],
+        databases: ["PostgreSQL", "MongoDB", "Redis"]
+    },
+    currentFocus: "AI-Powered Applications",
+    funFact: "I reverse-engineer APIs for fun! 🕵️"
 };
 ```
 
-### ⚡ Quick Highlights
-- 🤖 Built **AI-powered analytics platform** with personalized recommendations
-- 🏗️ **AWS architecture** - reduced migration time by 65% with Step Functions  
-- 📱 Created mobile app with **1.5K+ downloads**
-- 🎯 Led tech team for **30K+ attendees** at Asia's largest tech fest
+</td>
+<td width="50%">
 
-<br clear="right"/>
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Coding Animation"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## 🔥 **Highlights**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"><br>
+<b>AI Integration</b><br>
+Built AI mentor with<br>personalized coding insights
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"><br>
+<b>Cloud Architecture</b><br>
+AWS Step Functions<br>65% faster migrations
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80"><br>
+<b>Mobile Development</b><br>
+Flutter app with<br>1.5K+ downloads
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="80"><br>
+<b>Leadership</b><br>
+Led tech team for<br>30K+ attendees event
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Featured Project
+## 🛠️ **Tech Arsenal**
 
-**[CodeTrail](https://github.com/YOUR_USERNAME/codetrail)** - AI-Powered Competitive Programming Analytics
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,flutter,aws,mongodb,postgres,redis,docker,git" width="600"/>
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![AI](https://img.shields.io/badge/-AI%20Integration-FF6B35?style=flat&logo=openai&logoColor=white)
-
-*Reverse-engineered LeetCode API • AI mentor integration • Redis caching*
+</div>
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" height="180"/>
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=FFFFFF)
+## 🚀 **Featured Work**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### **CodeTrail** 🧠
+*AI-Powered Analytics Platform*
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+
+Reverse-engineered LeetCode API<br>
+AI mentor integration<br>
+Redis caching + Docker
+
+</td>
+<td align="center" width="33%">
+
+### **FeedForward** 💬
+*Anonymous Feedback System*
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+AI-powered suggestions<br>
+Secure authentication<br>
+Real-time analytics
+
+</td>
+<td align="center" width="33%">
+
+### **Techkriti Platform** 🎪
+*Asia's Largest Tech Fest*
+
+![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+400K+ views<br>
+Mobile app launch<br>
+Cross-platform solution
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaswa-mathur)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mathurkiit@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](#)
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F5FF&style=flat&label=Profile+Views" />
+## 🌐 **Let's Connect!**
+
+<a href="https://linkedin.com/in/tejaswa-mathur">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mathurkiit@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+**⚡ "Building tomorrow's solutions today" ⚡**
 
 </div>
