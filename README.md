@@ -12,21 +12,19 @@
 <tr>
 <td width="50%">
 
-## 🎯 **What I Do**
+## 🎯 **Currently Building**
 
-```typescript
-const tejaswa = {
-    code: ["JavaScript", "TypeScript", "Python"],
-    technologies: {
-        frontend: ["React", "Next.js"],
-        backend: ["Node.js", "AWS"],
-        mobile: ["Flutter"],
-        ai: ["OpenAI", "DeepSeek API"],
-        databases: ["PostgreSQL", "MongoDB", "Redis"]
-    },
-    currentFocus: "AI-Powered Applications",
-    funFact: "I reverse-engineer APIs for fun! 🕵️"
-};
+**🚀 AI-Powered Applications**  
+Building intelligent solutions with modern web technologies
+
+**⚡ Expertise:**
+- Full-stack development with React & Node.js
+- Mobile apps with Flutter & Kotlin  
+- Cloud architecture with AWS
+- Database design & optimization
+- API reverse-engineering & integration
+
+**🔍 Fun Fact:** I reverse-engineer APIs for breakfast! 🕵️
 ```
 
 </td>
@@ -34,7 +32,7 @@ const tejaswa = {
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Coding Animation"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation"/>
 
 </div>
 
@@ -79,7 +77,7 @@ Led tech team for<br>30K+ attendees event
 
 ## 🛠️ **Tech Arsenal**
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,flutter,aws,mongodb,postgres,redis,docker,git" width="600"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,kotlin,flutter,aws,mongodb,postgres,redis,docker,git,graphql,firebase" width="650"/>
 
 </div>
 
@@ -119,15 +117,15 @@ Real-time analytics
 </td>
 <td align="center" width="33%">
 
-### **Techkriti Platform** 🎪
-*Asia's Largest Tech Fest*
+### **Permitly** 📱
+*QR-Based Visitor Management*
 
-![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-400K+ views<br>
-Mobile app launch<br>
-Cross-platform solution
+Android app with Jetpack Compose<br>
+REST API with JWT auth<br>
+AWS S3 + Redis integration
 
 </td>
 </tr>
